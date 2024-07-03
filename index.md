@@ -15,7 +15,7 @@ A écouter :
 **[Lien vers la vidéo](https://www.invidious.reallyaweso.me/watch?v=nRhLCT5nV1Q)**
 
 
-Le message de Facebook après que j'ai essayé de partager le lien de la vidéo ^^'
+Le message de Facebook après que j'ai essayé de partager directement le lien Youtube de la vidéo ^^'
 
 
 ![Message reçu]({% link images/signal-2024-07-02-101150_002.jpeg %})
