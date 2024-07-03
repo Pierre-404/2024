@@ -6,7 +6,7 @@ in_menu: true
 # Mise à jour de 2024 - Porcherie !
 
 
-[Lien vers la vidéo](https://www.invidious.reallyaweso.me/watch?v=nRhLCT5nV1Q)
+**[Lien vers la vidéo](https://www.invidious.reallyaweso.me/watch?v=nRhLCT5nV1Q)**
 
 ![Mise à jour de 2024]({% link images/Capture d'écran 2024-07-03 175020.png %})
 
