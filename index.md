@@ -1,19 +1,19 @@
 ---
-title: "2024"
+title: "MAJ Porcherie 2024"
 order: 0
 in_menu: true
 ---
 # Mise à jour de 2024 - Porcherie !
 
+A écouter :
 
 **[Lien vers la vidéo](https://www.invidious.reallyaweso.me/watch?v=nRhLCT5nV1Q)**
 
-![Mise à jour de 2024]({% link images/Capture d'écran 2024-07-03 175020.png %})(https://www.invidious.reallyaweso.me/watch?v=nRhLCT5nV1Q)
+![Mise à jour de 2024]({% link images/Capture d'écran 2024-07-03 175020.png %})
 
-[Lien vers la vidéo](https://www.invidious.reallyaweso.me/watch?v=nRhLCT5nV1Q){.btn .btn-primary}
 
-[g-button button_type="primary" button_label="Lien vers la vidéo"][/g-button]
-[g-button button_type="primary" button_label="Lien vers la vidéo"](https://www.invidious.reallyaweso.me/watch?v=nRhLCT5nV1Q)[/g-button]
+**[Lien vers la vidéo](https://www.invidious.reallyaweso.me/watch?v=nRhLCT5nV1Q)**
+
 
 Le message de Facebook après que j'ai essayé de partager le lien de la vidéo ^^'
 
