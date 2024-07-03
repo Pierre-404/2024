@@ -10,6 +10,11 @@ in_menu: true
 
 ![Mise à jour de 2024]({% link images/Capture d'écran 2024-07-03 175020.png %})
 
-Le message de Facebook après que j'ai essayé de partager le lien de la vidéo :
 
-![Texte décrivant l'image]({% link images/signal-2024-07-02-101150_002.jpeg %}) 
+Le message de Facebook après que j'ai essayé de partager le lien de la vidéo ^^'
+
+
+![Message reçu]({% link images/signal-2024-07-02-101150_002.jpeg %})
+
+
+![Its something](https://i.kym-cdn.com/entries/icons/facebook/000/005/600/its-something.jpg) 
