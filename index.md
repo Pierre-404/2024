@@ -12,6 +12,9 @@ in_menu: true
 
 [Lien vers la vidéo](https://www.invidious.reallyaweso.me/watch?v=nRhLCT5nV1Q){.btn .btn-primary}
 
+[g-button button_type="primary" button_label="Lien vers la vidéo"][/g-button]
+[g-button button_type="primary" button_label="Lien vers la vidéo"](https://www.invidious.reallyaweso.me/watch?v=nRhLCT5nV1Q)[/g-button]
+
 Le message de Facebook après que j'ai essayé de partager le lien de la vidéo ^^'
 
 
