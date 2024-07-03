@@ -1,8 +1,15 @@
 ---
-title: Accueil
+title: "2024"
 order: 0
+in_menu: true
 ---
+# Mise à jour de 2024 - Porcherie !
 
-# L'Échappée Belle
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+![Lien vers la vidéo](https://invidious.reallyaweso.me/watch?v=nRhLCT5nV1Q)
+
+![Mise à jour de 2024]({% link images/Capture d'écran 2024-07-03 175020.png %})
+
+Le message de Facebook après que j'ai essayé de partager le lien de la vidéo :
+
+![Texte décrivant l'image]({% link images/signal-2024-07-02-101150_002.jpeg %}) 
