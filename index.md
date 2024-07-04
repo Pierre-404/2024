@@ -1,9 +1,9 @@
 ---
-title: "MAJ Porcherie 2024"
+title: "RIPOSTE POPULAIRE - Porcherie 2024"
 order: 0
 in_menu: true
 ---
-# Mise à jour de 2024 - Porcherie !
+# Mise à jour : RIPOSTE POPULAIRE - Porcherie 2024 !
 
 A écouter :
 
